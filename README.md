@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/PlugaruT/plugarut.github.io.svg?branch=master)](https://travis-ci.org/PlugaruT/plugarut.github.io)
