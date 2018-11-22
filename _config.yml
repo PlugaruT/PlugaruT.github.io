@@ -34,14 +34,15 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: PlugaruTudor
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: plugarutudor
 # youtube: myyoutube
 # spotify: myspotify
+twitter: PlugaruTudor
 github: PlugaruT
+linkedin: plugarutudor
+email: plugaru.tudor@pm.me
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +51,6 @@ github: PlugaruT
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: plugaru.tudor@pm.com
 
 authors:
     tudor:
