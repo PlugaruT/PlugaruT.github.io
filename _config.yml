@@ -3,7 +3,7 @@ name: Tudor Plugaru
 bio: "Going forward, one line at a time."
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about me and things interesting to me
 
 # if it's an external image, update below for true
 # better with square images
@@ -70,7 +70,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
