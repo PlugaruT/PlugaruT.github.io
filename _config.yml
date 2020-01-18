@@ -8,7 +8,7 @@ description: A blog about me and things interesting to me
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/me.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -27,38 +27,20 @@ permalink: /:title/
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# youtube: myyoutube
-# spotify: myspotify
 twitter: PlugaruTudor
 github: PlugaruT
 linkedin: plugarutudor
 email: plugaru.tudor@pm.me
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 
 authors:
     tudor:
         name: Tudor Plugaru
         bio: Going forward, one line at a time.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: PlugaruTudor
+        picture: assets/images/me.png
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
