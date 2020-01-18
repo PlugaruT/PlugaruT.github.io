@@ -6,7 +6,7 @@ layout: page
 
 <h1 style="text-align:left">Hi, I'm Tudor</h1>
 
-I'm a software developer from Moldova. Most of the time, I write Python, and in my free time I try to experiment with new programming languages like Go, Vala.
+I'm a software developer from Moldova. Most of the time, I write Python, and in my free time I try to experiment with new programming languages like Go, Vala. During my free time, I like reading, I don't read a lot of books per year, but it's honest work
 
 I am not much of a writer, but I'll try to write something in the blog section of this website, about things I find interesting.
 
